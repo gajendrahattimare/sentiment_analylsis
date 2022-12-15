@@ -1,1 +1,1 @@
-# sentiment_anylsis
+# sentiment_analysis
